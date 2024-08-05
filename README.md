@@ -2,4 +2,5 @@
 ---
 Projenin frontend kısmını Emirhan Akkaya arkadaşım yazdı kendisine çok teşekkür ederim.
 [Frontend](https://github.com/EmirhanAk6/KartvizitApp)
-[foto1](https://github.com/utkudogukanulug/KartvizitAppAPI/issues/1)
+---
+(https://github.com/utkudogukanulug/KartvizitAppAPI/issues/1)
